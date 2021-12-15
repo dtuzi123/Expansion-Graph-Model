@@ -19,7 +19,7 @@ Variational Autoencoders (VAEs) suffer from degenerated performance, when learni
 To train the model(s) in the paper, run this command:
 
 ```train
-python F.py
+python FiveRun_XXX.py
 ```
 
 
