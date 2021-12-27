@@ -1,8 +1,10 @@
 >📋 The implementation of Dynamic-Expansion-Graph-Model
 
-# Title : Dynamic-Expansion-Graph-Model
+# Title : Lifelong Generative Modelling Using Dynamic Expansion Graph Model
 
-This repository is the implementation of .
+This repository is the implementation of Lifelong Generative Modelling Using Dynamic Expansion Graph Model.
+
+# Paper link : https://arxiv.org/abs/2112.08370
 
 # Abstract
 
