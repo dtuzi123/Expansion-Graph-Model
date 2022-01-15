@@ -1,4 +1,4 @@
->📋 The implementation of Dynamic-Expansion-Graph-Model
+>📋 The implementation of Dynamic-Expansion-Graph-Model Accepted by AAAI 2022
 
 # Title : Lifelong Generative Modelling Using Dynamic Expansion Graph Model
 
