@@ -4,6 +4,8 @@
 
 This repository is the implementation of Lifelong Generative Modelling Using Dynamic Expansion Graph Model.
 
+# The paper has been accepted as the oral presentation in AAAI 2022.
+
 # Paper link : https://arxiv.org/abs/2112.08370
 
 # Abstract
